@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
-- 🔭 I’m currently working on [Munchbox](https://munchbox.vercel.app)
 
 - 🌱 I’m currently learning **ReactJS, NextJS**
 
 - 📫 Reach me at Email: **eddieobrams@gmail.com** or Discord: **edicosmos#4683**
+
+- 🔭 I'm currently working on [Munchbox](https://munchbox.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
