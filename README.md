@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS**
 
-- 📫 How to reach me **eddieobrams@gmail.com**
+- 📫 Reach me at Email: **eddieobrams@gmail.com** or Discord: **edicosmos#4683**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
